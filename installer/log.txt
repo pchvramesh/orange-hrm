@@ -1,0 +1,50 @@
+Client Info
+
+User Agent : BitRock InstallBuilder HTTP Client
+Remote Address : 127.0.0.1
+
+Server Info
+
+Host : localhost
+PHP Version : 7.1.24
+Server : Apache
+Admin : you@example.com
+
+Document Root : /opt/bitnami/apache2/htdocs
+ROOT_PATH : /opt/bitnami/apps/orangehrm/htdocs
+
+OrangeHRM Installation Log
+
+Sat, 01 Dec 2018 14:29:28 -0800 DB Creation - Starting
+Sat, 01 Dec 2018 14:29:28 -0800 DB Creation - Done
+Sat, 01 Dec 2018 14:29:28 -0800 DB Creation - No Errors
+Sat, 01 Dec 2018 14:29:28 -0800 Fill Data Phase 1 - Starting
+Sat, 01 Dec 2018 14:29:28 -0800 Fill Data Phase 1 - Connected to the DB Server
+Sat, 01 Dec 2018 14:29:28 -0800 Fill Data Phase 1 - Selected the DB
+Sat, 01 Dec 2018 14:29:28 -0800 Fill Data Phase 1 - Reading DB Script
+Sat, 01 Dec 2018 14:29:28 -0800 Fill Data Phase 1 - Opened DB Script
+Sat, 01 Dec 2018 14:29:28 -0800 Fill Data Phase 1 - Read DB script
+Sat, 01 Dec 2018 14:29:28 -0800 Fill Data Phase 1 - There are 286 Statements in the DB script
+Sat, 01 Dec 2018 14:29:38 -0800 MySQL Procedure Error:No database selected
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 1 - Done
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 1 - No Errors
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 2 - Starting
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 2 - Connected to the DB Server
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 2 - Selected the DB
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 2 - Reading DB Script
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 2 - Opened DB Script
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 2 - Read DB script
+Sat, 01 Dec 2018 14:29:38 -0800 Fill Data Phase 2 - There are 154 Statements in the DB script
+Sat, 01 Dec 2018 14:29:39 -0800 MySQL Event Error:No database selected
+Sat, 01 Dec 2018 14:29:39 -0800 Fill Data Phase 1 - Connected to the DB Server
+Sat, 01 Dec 2018 14:29:39 -0800 Fill Data Phase 2 - Done
+Sat, 01 Dec 2018 14:29:39 -0800 Fill Data Phase 2 - No Errors
+Sat, 01 Dec 2018 14:29:39 -0800 Create DB user - Starting
+Sat, 01 Dec 2018 14:29:39 -0800 Create DB user - Done
+Sat, 01 Dec 2018 14:29:39 -0800 Create DB user - No Errors
+Sat, 01 Dec 2018 14:29:39 -0800 Create OrangeHRM user - Starting
+Sat, 01 Dec 2018 14:29:39 -0800 Create OrangeHRM user - Done
+Sat, 01 Dec 2018 14:29:39 -0800 Create OrangeHRM user - No Errors
+Sat, 01 Dec 2018 14:29:39 -0800 Write Conf - Starting
+Sat, 01 Dec 2018 14:29:39 -0800 Write Conf - Done
+Sat, 01 Dec 2018 14:29:39 -0800 Write Conf - No Errors
